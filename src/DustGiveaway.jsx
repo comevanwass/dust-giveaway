@@ -519,8 +519,8 @@ export default function DustGiveaway() {
         <div className="dg-success-mark">◆ &nbsp; Entered &nbsp; ◆</div>
         <div className="dg-success-title">You're In</div>
         <p className="dg-success-text">
-          Your entry has been received.<br />Winners will be announced soon.<br /><br />
-          See you in the dust.
+          Your entry has been received.<br />Winners will be announced at 11PM (SHARP),<br />check your messages.<br /><br />
+          See you at the Dust Festival!
         </p>
       </div>
     </div>
